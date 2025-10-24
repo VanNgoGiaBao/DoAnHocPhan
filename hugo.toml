@@ -1,0 +1,25 @@
+baseURL = "https://VanNgoGiaBao.github.io/DoAnHocPhan/"
+languageCode = "vi"
+title = "Blog cá nhân về Lập Trình Mạng"
+theme = "PaperMod"
+
+[params]
+  author = "Van ngo gia bao"
+  description = "Chia sẻ kiến thức về Java & JavaScript"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowToc = true
+  TocOpen = false
+  mainSections = []
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Trang Chủ"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 2

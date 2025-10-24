@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dom on Blog cá nhân về Lập Trình Mạng</title>
+    <link>http://localhost:1313/tags/dom/</link>
+    <description>Recent content in Dom on Blog cá nhân về Lập Trình Mạng</description>
+    <generator>Hugo -- 0.152.0</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript: DOM Manipulation — Hướng dẫn chi tiết</title>
+      <link>http://localhost:1313/posts/javascript-dom-manipulation/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/javascript-dom-manipulation/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;DOM (Document Object Model) là giao diện lập trình cho phép truy cập và thao tác cấu trúc một tài liệu HTML hoặc XML dưới dạng cây (tree) gồm các nút (nodes). DOM Manipulation nghĩa là thay đổi nội dung, cấu trúc hoặc kiểu trình bày của trang bằng JavaScript. Bài viết này hướng dẫn chi tiết từ khái niệm cơ bản đến các ví dụ thực tiễn, lỗi thường gặp và bài tập để bạn thực hành.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
