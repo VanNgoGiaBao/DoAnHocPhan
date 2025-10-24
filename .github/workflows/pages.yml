@@ -26,7 +26,10 @@ jobs:
         with:
           hugo-version: "latest"
           extended: true
-
+          with:
+            submodules: true
+            fetch-depth: 0
+            
       - name: Build
         run: hugo --minify
 
