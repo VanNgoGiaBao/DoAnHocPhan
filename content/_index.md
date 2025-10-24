@@ -3,7 +3,7 @@ title: "Văn Ngô Gia Bảo - Java & JavaScript Developer"
 description: "Blog chia sẻ kiến thức về Java và JavaScript từ góc nhìn của một Junior Developer"
 ---
 
-![Văn Ngô Gia Bảo]({{ "img/avatar.jpg" | relURL }})
+![Văn Ngô Gia Bảo](img/avatar.jpg)
 
 ## 👋 Xin chào!
 
